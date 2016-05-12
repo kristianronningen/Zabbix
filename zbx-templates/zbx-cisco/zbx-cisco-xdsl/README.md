@@ -80,7 +80,7 @@ Installation
   * 3 => interleavedOnly
   * 4 => fastOrInterleaved
   * 5 => fastAndInterleaved
-4. Add a value mapping named `ciscoAdslLineConfig` with the following values:
+4. Add a value mapping named `ciscoAdslLineCoding` with the following values:
   * 1 => other
   * 2 => dmt
   * 3 => cap
